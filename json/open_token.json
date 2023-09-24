@@ -1,0 +1,10 @@
+{"token":"32位阿里token",
+"open_token":"280位阿里opentoken",
+"thread_limit":32,
+"vod_flags":"4k|4kz|auto",
+"quark_flags":"4k|4kz|auto",
+"aliproxy":"",
+"proxy":"",
+"open_api_url":"https://api.xhofe.top/alist/ali_open/",
+"quark_cookie":"夸克的带ctoken=的cookie值"}
+
