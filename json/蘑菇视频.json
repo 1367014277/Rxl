@@ -1,0 +1,17 @@
+{
+    "站名": "蘑菇视频",
+    "主页url": "https://www.moguys.xyz",
+    "简介": "剧情：&&收起</a>",
+    "影片状态": "集数：&&</div>",
+    "影片类型": "scroll-content\">&&立即播放",
+    "播放数组": "class=\"scroll-content\">&&</div>",
+    "线路数组": "class=\"module-tab-item tab-item&&</div>",
+    "数组": "module-item-pic\">&&module-item\">",
+    "搜索模式": "1",
+    "副标题": "module-item-text\">&&</div>",
+    "搜索url": "http://www.moguys.xyz/vodsearch/-------------.html?wd={wd}",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "http://www.moguys.xyz//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+}
+

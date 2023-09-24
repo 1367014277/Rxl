@@ -1,0 +1,16 @@
+ {
+"站点":"亿视影视",
+"主页url":"http://ly.ghlyys.com/",
+"影片类型": "div class=\"module-info-tag\">&&<div class=\"module-player-handle-items\"",
+"分类url": "http://ly.ghlyys.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$5#短剧$21",
+"线路数组":"module-tab-item tab-item&&</small>",
+"线路标题":"<span>&&[替换:</span><small>>>_共]+集",
+"搜索url":"http://ly.ghlyys.com/index.php/vod/search.html?wd={wd}",
+"搜索数组": "div class=\"module-card-item module-item\">&&</span></a",
+"搜索模式": "1",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "<strong>&&</strong>",
+"搜索副标题": "div class=\"module-item-note\">&&</div",
+"搜索链接": "href=\"&&\""
+}
