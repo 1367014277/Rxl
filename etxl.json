@@ -1,13 +1,13 @@
 {
   "spider": "./lib/uyv0t678c488189af47bb91dc108484d17431",
   "sites": [
-    //{
+    /*{
       "key": "drpy_js_ddys",
       "name": "♻豆瓣荐片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
-    },
+    },*/
     {
       "key": "csp_XYQHiker_兔小贝",
       "name": "♻兔小贝1",
