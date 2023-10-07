@@ -50,7 +50,7 @@
 {"key":"酷云77","name":"☕️酷云┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"☕️厂长┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/changzhang.json"},
 {"key": "鸿运当头", "name": "☕️鸿运┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
-{"key":"低端影视","name":"☕️低端┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/diduan.json"},
+//{"key":"低端影视","name":"☕️低端┃秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/diduan.json"},
 {"key":"在线之家","name":"☕️外剧┃秒播","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/zaixian.js"},
 {"key":"素白白","name":"☕️素白┃秒播","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/subaibai.js"},
 {"key":"饭团影视","name":"☕️饭团高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/fantuan.json"},
