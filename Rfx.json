@@ -13,7 +13,7 @@
 	    }],
 
 	"sites":[
-{"key":"豆瓣","name":"🎈Ruizz丨TV【祝您：🇨🇳国庆节快乐🇨🇳】🎈","type":3,"api":"./lib/apiv43drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"🎈【此接口首次缓冲较慢，缓冲完毕恢复正常！望体谅！】🎈","type":3,"api":"./lib/apiv43drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./lib/alibaba.jar"},
 {"key": "csp_FirstAid_急救","name": "‍🚑急救丨指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"./jar/aid.jar"},
 {"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib/apiv43drpy2.min.js","ext":"./lib/aiqiyi.js"},
